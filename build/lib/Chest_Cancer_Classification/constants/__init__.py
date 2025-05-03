@@ -17,3 +17,7 @@ PROJECT_ROOT = find_project_root()
 CONFIG_FILE_PATH = PROJECT_ROOT / "config/config.yaml"
 PARAMS_FILE_PATH = PROJECT_ROOT / "params.yaml"
 
+
+print(f"PROJECT_ROOT: {PROJECT_ROOT}")
+print(f"CONFIG_FILE_PATH: {CONFIG_FILE_PATH}")
+print(f"PARAMS_FILE_PATH: {PARAMS_FILE_PATH}")
