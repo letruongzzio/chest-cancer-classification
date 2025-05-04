@@ -349,3 +349,362 @@ src/Chest_Cancer_Classification/constants/__pycache__/__init__.cpython-310.pyc
 src/Chest_Cancer_Classification/logs/app.log
 src/Chest_Cancer_Classification/utils/__pycache__/__init__.cpython-310.pyc
 src/Chest_Cancer_Classification/utils/__pycache__/common.cpython-310.pyc
+artifacts/data_ingestion/data.zip
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000000 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000005 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000005 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000008 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000009 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000009 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000013 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000013 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000014 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000015 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000015 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000015 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000016 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000017 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000017 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000018 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000019 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000020 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000020 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000020 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000021 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000021 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000021 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000021 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000021 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000022 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000022 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000022 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000022 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000022.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000023 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000023 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000023 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000023 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000024 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000024 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000024 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000024.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000025 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000026 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000026 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000027 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000027 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000029 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000029 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000029 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000030 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000031 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000032 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000033 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000034 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000035 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000035 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000035 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000035 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000036 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000036 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000040 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000040 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000040 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000041 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000041 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000041 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000041 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000042 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000044 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000044 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000046 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000048 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000048.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000049 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000049 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000050 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000050 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000050 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000050 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000051 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000051 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000052 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000054 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000054 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000054 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000054.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000055 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000056 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000057 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000057.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000058 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000058 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000059 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000061.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000063 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000063 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000063 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000065 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000065 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000065 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000066 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000066 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000067 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000067.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000068 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000068 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000068 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000069 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000071 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000072 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000074 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000075 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000077 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000077 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000078 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000079 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000080 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000080 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000081 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000083 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000083 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000084 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000084 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000084 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000084.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000085 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000085 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000085 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000086 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000086 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000087 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000087 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000089 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000090 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000091 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000091 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000091.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000092 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000093 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000093 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000093 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000095 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000095.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000096 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000097 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000097 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000097 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000098 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000098 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000099 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000100 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000101 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000102 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000102 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000102 (7).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000102.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000103 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000104 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000104 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000105 (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000105 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000105.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000106 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000106 (8).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000106 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000107 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000118 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000118 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000119 (4).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000119 (5).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000119 (6).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000119 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000121 (9).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000121 (10).png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000121.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/000122.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad1.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad2.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad3.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad4.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad5.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad6.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad7.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad8.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad9.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad10.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad11.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad12.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad13.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad14.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad15.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad16.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad17.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad18.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad19.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad20.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad21.png
+artifacts/data_ingestion/Chest-CT-Scan-data/adenocarcinoma/ad22.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/2 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/2 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/2 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/2 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/2 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/2 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/2 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/2.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/3 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/3 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/3 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/3 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/3 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/3 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/3 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/3.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/4 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/4 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/4 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/4 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/4 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/4 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/4 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/4.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/5 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/5 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/5 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/5 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/5 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/5 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/5 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/5.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/6 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/6 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/6 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/6 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/6 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/6 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/6 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/6.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/7 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/7 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/7 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/7 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/7 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/7 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/7 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/7.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/8 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/8 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/8 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/8 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/8 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/8 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/8 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/8.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/10 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/10 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/10 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/10 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/10 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/10 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/10 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/10.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/11 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/11 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/11 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/11 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/11 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/11 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/11 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/11.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/12 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/12 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/12 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/12 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/12 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/12 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/12 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/12.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/13 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/13 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/13 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/13 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/13 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/13 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/13 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/13.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/16 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/16 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/16 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/16 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/16 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/16 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/16 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/16.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/17 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/17 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/17 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/17 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/17 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/17 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/17 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/17.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/18 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/18 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/18 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/18 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/18 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/18 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/18 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/18.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/19 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/19 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/19 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/19 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/19 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/19 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/19 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/19.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/20 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/20 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/20 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/20 - Copy (3).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/20 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/20 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/20 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/20.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/21 - Copy - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/21 - Copy (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/21 - Copy (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/21 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n6 - Copy.jpg
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n6 (2) - Copy.jpg
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n6 (2).jpg
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n6.jpg
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n7 - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n7 (2) - Copy.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n7 (2).png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n7.png
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n8 - Copy.jpg
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n8 (2) - Copy.jpg
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n8 (2).jpg
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n8.jpg
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n9 - Copy.jpg
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n9 (2) - Copy.jpg
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n9 (2).jpg
+artifacts/data_ingestion/Chest-CT-Scan-data/normal/n9.jpg
+artifacts/prepare_model/updated_vgg_16.h5
+artifacts/prepare_model/vgg_16.h5
+src/Chest_Cancer_Classification/components/__pycache__/__init__.cpython-310.pyc
+src/Chest_Cancer_Classification/components/__pycache__/data_ingestion.cpython-310.pyc
+src/Chest_Cancer_Classification/components/__pycache__/prepare_model.cpython-310.pyc
+src/Chest_Cancer_Classification/config/__pycache__/__init__.cpython-310.pyc
+src/Chest_Cancer_Classification/config/__pycache__/configuration.cpython-310.pyc
+src/Chest_Cancer_Classification/entity/__pycache__/__init__.cpython-310.pyc
+src/Chest_Cancer_Classification/entity/__pycache__/config_entity.cpython-310.pyc
+src/Chest_Cancer_Classification/pipeline/__pycache__/__init__.cpython-310.pyc
+src/Chest_Cancer_Classification/pipeline/__pycache__/data_ingestion_pipeline.cpython-310.pyc
+src/Chest_Cancer_Classification/pipeline/__pycache__/prepare_model_pipeline.cpython-310.pyc
+src/Chest_Cancer_Classification.egg-info/SOURCES.txt
+src/Chest_Cancer_Classification.egg-info/SOURCES.txt
+.gitignore

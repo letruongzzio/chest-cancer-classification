@@ -7,10 +7,15 @@ src/Chest_Cancer_Classification.egg-info/SOURCES.txt
 src/Chest_Cancer_Classification.egg-info/dependency_links.txt
 src/Chest_Cancer_Classification.egg-info/top_level.txt
 src/Chest_Cancer_Classification/components/__init__.py
+src/Chest_Cancer_Classification/components/data_ingestion.py
+src/Chest_Cancer_Classification/components/prepare_model.py
 src/Chest_Cancer_Classification/config/__init__.py
 src/Chest_Cancer_Classification/config/configuration.py
 src/Chest_Cancer_Classification/constants/__init__.py
 src/Chest_Cancer_Classification/entity/__init__.py
+src/Chest_Cancer_Classification/entity/config_entity.py
 src/Chest_Cancer_Classification/pipeline/__init__.py
+src/Chest_Cancer_Classification/pipeline/data_ingestion_pipeline.py
+src/Chest_Cancer_Classification/pipeline/prepare_model_pipeline.py
 src/Chest_Cancer_Classification/utils/__init__.py
 src/Chest_Cancer_Classification/utils/common.py

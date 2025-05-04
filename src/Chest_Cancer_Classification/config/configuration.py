@@ -1,6 +1,13 @@
+"""
+This module contains the ConfigurationManager class, which is responsible for managing the configuration of the project.
+It reads the configuration and parameters from YAML files and provides methods to access them.
+It uses the `read_yaml` function to read the YAML files and the `create_directories` function to create necessary directories.
+It also defines the `ConfigurationManager` class, which provides methods to get the data ingestion and model preparation configurations.
+"""
+
 from pathlib import Path
 from Chest_Cancer_Classification.constants import *
-from Chest_Cancer_Classification.entity.config_entity import DataIngestionConfig
+from Chest_Cancer_Classification.entity.config_entity import *
 from Chest_Cancer_Classification.utils.common import read_yaml, create_directories
 
 class ConfigurationManager:
@@ -35,3 +42,26 @@ class ConfigurationManager:
             unzip_dir=Path(config.unzip_dir)
         )
         return data_ingestion_config
+
+    def get_prepare_model_config(self) -> PrepareModelConfig:
+        """
+        This method is responsible for setting up the model preparation configuration.
+        It creates the necessary directories and prepares the configuration for model preparation.
+
+        Returns:
+            PrepareModelConfig: The model preparation configuration object.
+        """
+        config = self.config.prepare_model
+        create_directories([config.root_dir])
+        
+        prepare_model_config = PrepareModelConfig(
+            root_dir=Path(config.root_dir),
+            model_path=Path(config.model_path),
+            updated_model_path=Path(config.updated_model_path),
+            params_image_size=self.params.IMAGE_SIZE,
+            params_learning_rate=self.params.LEARNING_RATE,
+            params_include_top=self.params.INCLUDE_TOP,
+            params_weights=self.params.WEIGHTS,
+            params_classes=self.params.CLASSES
+        )
+        return prepare_model_config

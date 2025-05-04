@@ -15,8 +15,8 @@ class DataIngestionPipeline:
     This class is responsible for managing the data ingestion pipeline.
     It orchestrates the downloading and extraction of the dataset.
     """
-    def __init__(self):
-        pass
+    def __init__(self, config: ConfigurationManager):
+        self.config = config
 
     def main(self):
         """
@@ -25,21 +25,10 @@ class DataIngestionPipeline:
         It downloads the dataset and extracts it.
         """
         try:
-            config = ConfigurationManager()
-            data_ingestion_config = config.get_data_ingestion_config()
+            data_ingestion_config = self.config.get_data_ingestion_config()
             data_ingestion = DataIngestion(config=data_ingestion_config)
             data_ingestion.download_file()
             data_ingestion.extract_zip_file()
         except Exception as e:
             raise e
 
-
-def run_data_ingestion_pipeline():
-    """
-    This function runs the data ingestion pipeline.
-    It initializes the DataIngestionPipeline class and calls its main method.
-    """
-    logger.info(f"{'>>'*20} {STAGE_NAME} {'<<'*20}")
-    data_ingestion_pipeline = DataIngestionPipeline()
-    data_ingestion_pipeline.main()
-    logger.info("Data Ingestion Pipeline completed successfully.")

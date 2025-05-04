@@ -1,3 +1,11 @@
+"""
+This module contains the DataIngestion class, which is responsible for downloading and extracting the dataset.
+It handles the downloading of the dataset from a specified URL and extracts it to a specified directory.
+It uses gdown to download the file from Google Drive and zipfile to extract the contents.
+It is designed to work with a specific dataset for chest cancer classification.
+"""
+
+
 import os
 import zipfile
 import gdown
