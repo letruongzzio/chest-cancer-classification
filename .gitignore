@@ -708,3 +708,6 @@ src/Chest_Cancer_Classification/pipeline/__pycache__/prepare_model_pipeline.cpyt
 src/Chest_Cancer_Classification.egg-info/SOURCES.txt
 src/Chest_Cancer_Classification.egg-info/SOURCES.txt
 .gitignore
+artifacts/training/trained_vgg_16.h5
+src/Chest_Cancer_Classification/components/__pycache__/trainer.cpython-310.pyc
+.gitignore

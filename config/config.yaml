@@ -10,3 +10,7 @@ prepare_model:
   root_dir: artifacts/prepare_model
   model_path: artifacts/prepare_model/vgg_16.h5
   updated_model_path: artifacts/prepare_model/updated_vgg_16.h5
+
+training:
+  root_dir: artifacts/training
+  trained_model_path: artifacts/training/trained_vgg_16.h5
